@@ -6,16 +6,17 @@ public class operaciones {
 	this.b = b;
 	}
 	public int suma() {
+		//kjhkjhkjhkj
 	return a + b;
 	}
 	/*public int resta() {
 	return a - b;
 	}*/
-	public double división() {
+	public double divisiÃ³n() {
 		if (a==0) System.out.println("no");
 	return (double)a / b;
 	}
-	public int multiplicación() {
+	public int multiplicaciÃ³n() {
 	return a * b;
 }
 }
