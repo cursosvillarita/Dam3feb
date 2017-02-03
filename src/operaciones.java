@@ -8,10 +8,11 @@ public class operaciones {
 	public int suma() {
 	return a + b;
 	}
-	public int resta() {
+	/*public int resta() {
 	return a - b;
-	}
+	}*/
 	public double división() {
+		if (a==0) System.out.println("no");
 	return (double)a / b;
 	}
 	public int multiplicación() {
