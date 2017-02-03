@@ -14,7 +14,7 @@ public class operaciones {
 	return a - b;
 	}*/
 	public double división() {
-		if (a==0) System.out.println("no");
+		if (a==0) System.out.println("Si");
 	return (double)a / b;
 	}
 	public int multiplicación() {
