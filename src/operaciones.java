@@ -8,14 +8,14 @@ public class operaciones {
 	public int suma() {
 	return a + b;
 	}
-	/*public int resta() {
+	public int resta() {
 	return a - b;
-	}*/
-	public double división() {
+	}
+	public double divisiÃ³n() {
 		if (a==0) System.out.println("no");
 	return (double)a / b;
 	}
-	public int multiplicación() {
+	public int multiplicaciÃ³n() {
 	return a * b;
 }
 }
