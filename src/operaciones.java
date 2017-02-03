@@ -18,7 +18,7 @@ public class operaciones {
 	return (double)a / b;
 	}
 	public int multiplicación() {
-		int k=0;
+		
 	return a * b;
 }
 }
