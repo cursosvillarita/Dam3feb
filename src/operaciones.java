@@ -6,10 +6,11 @@ public class operaciones {
 	this.b = b;
 	}
 	public int suma() {
-		//kjhkjhkjhkj
+		
 	return a + b;
 	}
 	/*public int resta() {
+	
 	return a - b;
 	}*/
 	public double división() {
@@ -17,6 +18,7 @@ public class operaciones {
 	return (double)a / b;
 	}
 	public int multiplicación() {
+		int k=0;
 	return a * b;
 }
 }
