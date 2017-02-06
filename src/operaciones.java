@@ -13,11 +13,11 @@ public class operaciones {
 	
 	return a - b;
 	}*/
-	public double división() {
-		if (a==0) System.out.println("Si");
+	public double division() {
+		if (a==0) System.out.println("No6feb");
 	return (double)a / b;
 	}
-	public int multiplicación() {
+	public int multiplicacion() {
 		int k=0;
 	return a * b;
 }
