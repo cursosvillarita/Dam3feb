@@ -4,5 +4,6 @@ public class pepe {
   int b=7;
   //ghhjfhjfashgfhasgfghsa 10 feb
   int c=9;
+  int d=25;
 
 }
